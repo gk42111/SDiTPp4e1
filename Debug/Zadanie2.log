@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kartoniardo\source\repos\zadanie2\zadanie2\main.cpp(10): warning C4101: "CC": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\kartoniardo\source\repos\zadanie2\zadanie2\main.cpp(9): warning C4101: "C": lokalna zmienna, do której nie istnieje odwołanie
+  Zadanie2.vcxproj -> C:\Users\Kartoniardo\source\repos\Zadanie2\Debug\Zadanie2.exe
